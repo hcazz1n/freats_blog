@@ -17,7 +17,6 @@
       </div>
     </div>
   </nav>
-
   <nav class="navbar navbar-2">
     <div class="nav-container">
         <div class="navbar-brand">
